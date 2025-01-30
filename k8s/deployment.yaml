@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: timezone-app
-          image: aravindad94/timezone-app:2.0.1
+          image: aravindad94/timezone-app:2.0.4
           ports:
             - containerPort: 5000
