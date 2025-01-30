@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: timezone-app
-          image: IMAGE_PLACEHOLDER
+          image: aravindad94/timezone-app:latest
           ports:
             - containerPort: 5000
